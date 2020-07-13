@@ -16,11 +16,21 @@ ul {
     line-height: 40px;
 }
 
+body {
+    color: #6CE9DE;
+    background-color: #F1ACE1;
+    font-size: 14px;
+    font-style: normal;
+    font-family: Candara, Helvetica, sans-serif;
+}
 
+strong {
+    font-style: italic;
+}
 
-
-
-
+em {
+    font-weight: bold;
+}
 
 
 
